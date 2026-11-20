@@ -1,3 +1,5 @@
+![Before and After Comparison](https://github.com/LiterallyUs/removegreen/blob/main/image.png?raw=true)
+
 This mod removes both grass and flower generation in Minecraft, combining my [Remove Grass](https://github.com/LiterallyUs/removegrass/releases/tag/1.0.0) and [Remove Flowers](https://github.com/LiterallyUs/removeflowers/releases/tag/1.0.0) mods into one.
 
 Requires Fabric API.
